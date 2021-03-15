@@ -1,5 +1,7 @@
 .vscode
 
+readme.md
+
 src/public/css/
 
 node_modules/
